@@ -1,0 +1,29 @@
+{
+  "name": "profis",
+  "description": "The grunt plugin for fis",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {},
+  "repository": {},
+  "licenses": [
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "fis": "~1.7.8",
+    "fis-optimizer-html-compress": "0.0.7"
+  }
+}

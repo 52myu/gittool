@@ -1,0 +1,1 @@
+require('../lib/pro').cli.run(process.argv);
